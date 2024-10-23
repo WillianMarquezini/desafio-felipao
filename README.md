@@ -11,6 +11,7 @@ Este repositório contém uma coleção de projetos desenvolvidos durante o boot
 ## Como Testar os Códigos
 
 1. **Execute o código**:
+
    1.1. **Primeiro desafio**:
    ```bash
    node './primeiro desafio/primeiroDesafio.js'
@@ -20,14 +21,16 @@ Este repositório contém uma coleção de projetos desenvolvidos durante o boot
    node './segundo desafio/segundoDesafio.js'
    ```
 
-3. **Siga as instruções**:
+2. **Siga as instruções**:
+   
    3.1. **Primeiro desafio**:
       - Quando solicitado, digite o nome do seu herói.
       - Em seguida, insira o nível de experiência (um número entre 0 e 10.000).
    3.2. **Segundo desafio**:
       - Quando for solicitado, digite o número de vitórias e derrotas.
 
-4. **Veja o resultado**:
+3. **Veja o resultado**:
+   
    4.1. **Primeiro desafio**:
       - O programa exibirá o nome do herói e seu respectivo rank.
    4.2. **Segundo desafio**:
