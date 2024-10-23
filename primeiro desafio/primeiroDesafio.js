@@ -3,7 +3,7 @@ const line = readline.createInterface({ input: process.stdin, output: process.st
 
 line.question('Qual o nome do seu herói? ', (nome) => {
     console.log(`Olá, ${nome}!`);
-    line.question('Qual o seu nível de experiência? (entre 0 e mais que 10000): ', (xp) => {
+    line.question('Qual o seu nível de experiência? (entre 0 e mais que 10000) ', (xp) => {
         // Converte a entrada para um número para garantir que seja verificado corretamente
         xp = Number(xp);
 
