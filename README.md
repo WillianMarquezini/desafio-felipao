@@ -20,6 +20,12 @@ Este repositório contém uma coleção de projetos desenvolvidos durante o boot
    ```bash
    node './segundo desafio/segundoDesafio.js'
    ```
+   1.2. **Terceiro desafio**:
+   ```bash
+   node './terceiro desafio/terceiroDesafio.js'
+   ```
+
+   _ps: se quiser parar a execução do programa aperte 'ctrl + c'_
 
 2. **Siga as instruções**:
    
@@ -29,6 +35,9 @@ Este repositório contém uma coleção de projetos desenvolvidos durante o boot
    
    3.2. **Segundo desafio**:
       - Quando for solicitado, digite o número de vitórias e derrotas.
+   
+   3.3. **Terceiro desafio**:
+      - Quando for socitado, digite o nome a idade e a Classe do seu herói.
 
 3. **Veja o resultado**:
    
@@ -38,9 +47,16 @@ Este repositório contém uma coleção de projetos desenvolvidos durante o boot
    4.2. **Segundo desafio**:
       - O programa exibirá o saldo e o rank do herói.
 
+   4.3. **Terceiro desafio**:
+      - O programa exibirá a sua classe o ataque utilizado equivalente a classe.
+
 ## Observações
 1. **Primeiro desafio**:
    - O nível de experiência deve ser um número válido e não pode ser menor que 0.
    - Os ranks são determinados de acordo com as faixas de experiência definidas no código.
 2. **Segundo desafio**:
    - Os ranks são determinados de acordo com o cálculo de vitórias menos derrotas, realizado dentro do código.
+3. **Terceiro desafio**:
+   - Os ataques serãoid definidos pela classe escolhida
+   - idade tem que ser um INT
+   - a classe pode ser enviada com Caps ativo 
